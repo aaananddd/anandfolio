@@ -21,7 +21,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 z-10 text-center">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Hi, I'm <span className="text-gradient">Your Name</span>
+            Hi, I'm <span className="text-gradient">Anand</span>
           </h1>
           <p className="text-2xl md:text-3xl text-muted-foreground mb-8">
             React.js Developer
